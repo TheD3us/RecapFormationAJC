@@ -1,0 +1,12 @@
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.csprojAssemblyReference.cache
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.Db.resources
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.Accueil.resources
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.Forms.SelectAllForm.resources
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.Properties.Resources.resources
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.csproj.GenerateResource.cache
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\bin\Debug\WindowsFormsDAOArticle.exe.config
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\bin\Debug\WindowsFormsDAOArticle.exe
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\bin\Debug\WindowsFormsDAOArticle.pdb
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.exe
+C:\Users\Theo\source\repos\WindowsFormsDAOArticle\WindowsFormsDAOArticle\obj\Debug\WindowsFormsDAOArticle.pdb

@@ -1,0 +1,15 @@
+﻿@using TestMVC.Models
+@{
+    ViewBag.Title = "Test13";
+    var item = HttpContext.Current.Application["item"] as Item;
+}
+<p>@HttpContext.Current.Application["site"]</p>
+
+<ul>
+    <li>@item.Reference</li>
+    <li>@item.Marque</li>
+    <li>@item.Prix</li>
+</ul>
+
+<h2>Test14</h2>
+

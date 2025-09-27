@@ -1,0 +1,32 @@
+﻿@model TestMVC.Models.Article
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>Test</h2>
+
+<form method="post" action="/ArticleForm/Test">
+
+    <label>Marque</label><input type="text" name="marque" /><br />
+    <label>Prix</label><input type="text" name="prix" /><br />
+
+    <button id="btnOk" type="submit">Insert</button>
+</form>
+
+<hr />
+
+<h2>Testv2: Article :</h2>
+@if (Model != null)
+{
+    <h2>@Model.Marque</h2>
+    <h2>@Model.Prix</h2>
+}
+<h1>Vers Page Marque</h1>
+
+    <form method="post" action="/ArticleForm/Marque">
+
+        <label>Marque</label><input type="text" name="marque" /><br />
+        <label>Prix</label><input type="text" name="prix" /><br />
+
+        <button id="btnOk" type="submit">Insert</button>
+    </form>

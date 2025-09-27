@@ -1,0 +1,11 @@
+﻿@model TestMVC.Models.Traitement
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    ViewBag.Title = "GoGreeting";
+}
+<link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+<h1>@Model.getGreeting()</h1>
+<h2>GoGreeting</h2>
+

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Test8";
+}
+
+<h2>Test8</h2>
+<div>
+    <img src="~/Images/full.png" />
+</div>
+
+@{ string image = "~/Images/full(1).png";}
+
+<div>
+    <img src=@Url.Content(image) />
+</div>

@@ -1,0 +1,7 @@
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\bin\Debug\ConsoleAppItem.exe.config
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\bin\Debug\ConsoleAppItem.exe
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\bin\Debug\ConsoleAppItem.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\obj\Debug\ConsoleAppItem.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\obj\Debug\ConsoleAppItem.exe
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\obj\Debug\ConsoleAppItem.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\ConsoleAppItem\obj\Debug\ConsoleAppItem.csprojAssemblyReference.cache

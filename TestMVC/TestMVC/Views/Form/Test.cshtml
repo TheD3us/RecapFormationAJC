@@ -1,0 +1,23 @@
+﻿@model TestMVC.Models.Client
+@{
+    ViewBag.Title = "Test";
+}
+
+<h2>Test</h2>
+
+<form method="post" action="/Form/Test">
+
+    <label>nom</label><input type="text" name="nom" /><br />
+    <label>prenom</label><input type="text" name="prenom" /><br />
+
+    <button id="btnOk" type="submit">Insert</button>
+</form>
+
+<hr />
+
+<h2>Testv2: client :</h2>
+@if (Model != null)
+{
+    <h2>@Model.Nom</h2>
+    <h2>@Model.Prenom</h2>
+}

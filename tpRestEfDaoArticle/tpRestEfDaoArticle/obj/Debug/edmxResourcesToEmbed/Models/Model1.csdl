@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ajc_tpModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="articles">
+    <Key>
+      <PropertyRef Name="ref" />
+    </Key>
+    <Property Name="ref" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="marque" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="prix" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="ajc_tpEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="articles" EntityType="Self.articles" />
+  </EntityContainer>
+</Schema>

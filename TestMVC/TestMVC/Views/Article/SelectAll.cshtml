@@ -1,0 +1,23 @@
+﻿@model List<TestMVC.Models.Article>
+@{
+    ViewBag.Title = "SelectAll";
+}
+<h2>SELECTALL</h2>
+
+<table>
+    <tr>
+        <th>id</th>
+        <th>marque</th>
+        <th>prix</th>
+
+    </tr>
+    @foreach (var x in @Model)
+    {
+        <tr>
+
+            <td>@x.Id</td>
+            <td>@x.Marque</td>
+            <td>@x.Prix</td>
+        </tr>
+    }
+</table>

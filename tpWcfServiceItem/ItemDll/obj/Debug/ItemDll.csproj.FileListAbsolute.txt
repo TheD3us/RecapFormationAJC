@@ -1,0 +1,8 @@
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\bin\Debug\ItemDll.dll
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\bin\Debug\ItemDll.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.csprojAssemblyReference.cache
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.dll
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.Db.resources
+C:\Users\Theo\source\repos\tpWcfServiceItem\ItemDll\obj\Debug\ItemDll.csproj.GenerateResource.cache

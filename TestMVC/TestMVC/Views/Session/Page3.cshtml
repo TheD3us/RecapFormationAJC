@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Page3";
+}
+
+<h2>Page3</h2>
+<table>
+    <tr>
+        <th>Ref</th>
+        <th>Marque</th>
+        <th>Prix</th>
+    </tr>
+    @foreach (var i in (List<TestMVC.Models.Item>)Session["list"])
+    {
+    <tr>
+        <td>@i.Reference</td>
+        <td>@i.Marque</td>
+        <td>@i.Prix</td>
+    </tr>
+    }
+</table>
+
+

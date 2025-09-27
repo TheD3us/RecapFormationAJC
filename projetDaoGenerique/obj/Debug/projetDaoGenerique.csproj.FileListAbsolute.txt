@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\bin\Debug\projetDaoGenerique.exe.config
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\bin\Debug\projetDaoGenerique.exe
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\bin\Debug\projetDaoGenerique.pdb
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\obj\Debug\projetDaoGenerique.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\obj\Debug\projetDaoGenerique.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\obj\Debug\projetDaoGenerique.exe
+C:\Users\admin\OneDrive\Bureau\DOTNET2025\algo\SolutionCours\projetDaoGenerique\obj\Debug\projetDaoGenerique.pdb

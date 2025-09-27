@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "Page2";
+}
+@foreach (var i in (List<TestMVC.Models.Item>)Session["list"])
+{ <p>@i.Reference | @i.Marque | @i.Prix</p>}
+<h2>Page2</h2>
+

@@ -1,0 +1,6 @@
+namespace tpRestEfDaoArticle.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

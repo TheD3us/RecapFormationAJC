@@ -1,0 +1,10 @@
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\obj\Debug\WcfServiceItem.csprojAssemblyReference.cache
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\obj\Debug\WcfServiceItem.csproj.CoreCompileInputs.cache
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\bin\WcfServiceItem.dll.config
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\bin\WcfServiceItem.dll
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\bin\WcfServiceItem.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\bin\ItemDll.dll
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\bin\ItemDll.pdb
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\obj\Debug\WcfServiceItem.csproj.CopyComplete
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\obj\Debug\WcfServiceItem.dll
+C:\Users\Theo\source\repos\tpWcfServiceItem\WcfServiceItem\obj\Debug\WcfServiceItem.pdb
