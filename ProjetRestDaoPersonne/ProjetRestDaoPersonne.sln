@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36217.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetRestDaoPersonne", "ProjetRestDaoPersonne\ProjetRestDaoPersonne.csproj", "{C67313D1-3BF6-42B2-B2BA-96332D886597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67313D1-3BF6-42B2-B2BA-96332D886597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67313D1-3BF6-42B2-B2BA-96332D886597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67313D1-3BF6-42B2-B2BA-96332D886597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67313D1-3BF6-42B2-B2BA-96332D886597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A00BF2-DA9A-48B2-B6B9-A2FC72F36C7E}
+	EndGlobalSection
+EndGlobal
